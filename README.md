@@ -1,9 +1,4 @@
-import os
-import requests
-import socket
-import whois
-from colorama import Fore, init
-import time
-from urllib.request import urlopen
-from urllib.error import URLError
-from bs4 import BeautifulSoup
+pip install requests
+pip install python-whois
+pip install colorama
+pip install beautifulsoup4
